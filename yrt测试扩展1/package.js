@@ -1,0 +1,9 @@
+extension["测试01"]={
+	intro:"",
+	author:"无名玩家",
+	netdisk:"",
+	forum:"",
+	version:"1.0",
+	files:["01.jpg","测试.jpg","extension.js","fenglun.mp3"],
+	size:"1.1MB"
+};
